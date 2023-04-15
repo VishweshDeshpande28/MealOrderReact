@@ -1,0 +1,23 @@
+.brands-item{
+    background-color: #d1eaff;
+    align-items: center;
+    height: 200px;
+    max-width: 160px;
+    min-width: 160px;
+    width: 100%;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    padding-top: 1.25rem;
+    cursor: pointer;
+}
+.brands-item h2{
+    font-size: 1.1rem;
+    padding: 1.25rem;
+    width: 100%;
+    background: #ef2501;
+    margin: 0;
+    color: #fff;
+}
+.sub-category a{
+    text-decoration: none;
+}

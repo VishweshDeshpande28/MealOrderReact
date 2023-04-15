@@ -1,0 +1,50 @@
+h1{
+    padding: 0.5em;
+    text-align: center;
+}
+.product-list-block{
+    max-width: 1000px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.product_list{    border-radius: 10px;
+    max-width: 250px;
+    width: 100%;
+    margin-right: 20px;
+    background: #fffbea;
+    padding-top: 1.4rem;
+    border: 1px solid #f4e8cf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;}
+.product_list .listimg{width: 100px; height: 100px;}
+.product_list h2{font-size: 1.25rem; font-weight: 500; color: #4f4f4f;}
+.product_inner button{margin: 0 auto; display: block; }
+.amt{color: red; font-weight: bold; font-size: 1.25rem;}
+
+.display-n{
+    display: none !important;
+}
+.quantityInput{
+    background: transparent;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    width: 70px;
+}
+.quantityInput{
+    
+}
+.itemAdd{
+    background: #ef2501;
+    border: 1px solid;
+    border-radius: 8px;
+    max-width: 97px;
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 6px 10px;
+}

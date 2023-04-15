@@ -1,0 +1,7 @@
+.orderdetailstbl th{padding: 5px 15px; background: #eceef5; color: #7b7b7b; font-size: 14px;
+     font-weight: 400; border: 1px solid #ccc;}
+.orderdetailstbl td{padding: 10px 15px; color: #000; border: 1px solid #ccc;}
+.orderdetailstbl td:first-child{width: 15%;}
+.orderdetailstbl td:first-child img{width: 70px;}
+.amttotal{font-size: 1.25rem; font-weight: 600; text-align: right; text-transform: uppercase;}
+.checkoutbtn{outline: none; background: #feb415; color: #000;border: 0px; padding: 5px 15px; border-radius: 10px; line-height: 34px;}

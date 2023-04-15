@@ -1,0 +1,25 @@
+.form {
+    text-align: right;
+  }
+  
+.btn1 {
+    padding: 5px 35px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #eb380c;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 9px #999;
+}
+
+.btn1:hover {background-color: #3e8e41}
+
+.btn1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+  }
+  

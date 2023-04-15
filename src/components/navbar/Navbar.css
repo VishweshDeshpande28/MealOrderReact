@@ -1,0 +1,8 @@
+.myNavBar .navbarParent{
+    
+}
+.myNavBar .navActive{
+    color: #8c5f57 !important;
+    font-weight: bold;
+    text-decoration: underline;
+}
